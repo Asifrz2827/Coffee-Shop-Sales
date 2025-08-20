@@ -36,5 +36,5 @@ The dashboard allows stakeholders to quickly understand key metrics such as:
 ## 🛠️ Tools Used
 - **Microsoft Excel** – Pivot Tables, Charts, and Slicers for interactivity.  
 - **Data Visualization** – Pie Charts, Line Graphs, Bar Charts, KPIs.
-- 
+
 ⭐ If you like this project, don’t forget to **star the repo**!
