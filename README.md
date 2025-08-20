@@ -22,4 +22,19 @@ The dashboard allows stakeholders to quickly understand key metrics such as:
 
 ---
 ## 🖼️ Dashboard Preview
-![Coffee Shop Sales Dashboard](docs/coffee dashboard.jpg)
+![Image](https://github.com/user-attachments/assets/79827f06-c358-41ec-853f-d4687bb11f0e)
+
+## 📈 Insights Gained
+- Morning hours (8–10 AM) have the highest order volumes.  
+- Coffee accounts for the largest share of sales.  
+- Large-sized orders dominate overall sales distribution.  
+- Hell’s Kitchen store location records the maximum customer footfall.  
+- Barista Espresso is the **top-selling product**.  
+
+---
+
+## 🛠️ Tools Used
+- **Microsoft Excel** – Pivot Tables, Charts, and Slicers for interactivity.  
+- **Data Visualization** – Pie Charts, Line Graphs, Bar Charts, KPIs.
+- 
+⭐ If you like this project, don’t forget to **star the repo**!
